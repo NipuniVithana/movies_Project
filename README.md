@@ -21,5 +21,10 @@ The website retrieves movie data from MongoDB and presents it to users in an int
 - npm: A package manager for Node.js, used for managing frontend dependencies.
 - Maven: A build automation tool for Java projects, used for managing backend dependencies.
 
+## Contributors
+- [Nipuni Vithana](https://github.com/NipuniVithana)
+- [Imesha Dilshani](https://github.com/ImeshaDilshani)
+
+
 ## Acknowledgements
 Special thanks to the creators and maintainers of React, Spring Boot, and MongoDB for their excellent tools and documentation.
